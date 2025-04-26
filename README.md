@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gittykrsh
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning WebDev
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on hehehe
 - 📫 How to reach me nobody knows
 - 😄 Pronouns: na
