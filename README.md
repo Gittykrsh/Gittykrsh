@@ -31,6 +31,7 @@
 - 📫 Reach me: **shakyasimha@gmail.com**
 - ⚡ Fun fact: **I turn ☕ into clean code**
 
+---
 
 ### 🧠 Languages & Tools
 
